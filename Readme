@@ -1,0 +1,7 @@
+Hey,
+    This DNN model currently doesnot account for shouting or high pitch sounds.
+    Hence for further improvements 2 more phases of seperation are to be included:
+        1. Screams from Shouts
+        2. Screams from High pitch noises.
+
+    -for more improvements we must also differentiate between human sound and surrounding noises-
