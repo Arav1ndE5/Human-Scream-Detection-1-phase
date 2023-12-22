@@ -1,0 +1,7 @@
+numpy==1.21.0
+librosa==0.8.1
+scikit-learn==0.24.2
+tensorflow==2.5.0
+sounddevice==0.4.1
+scipy==1.7.0
+ipywebrtc==0.5.0
